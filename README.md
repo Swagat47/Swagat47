@@ -51,3 +51,6 @@
 <!-- [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@themlphdstudent) -->
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/swagat_raj0911)
 </p>
+
+## My Stats:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Swagat47&show_icons=true&theme=radical&locale=en" alt="Swagat" /></p>
